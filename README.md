@@ -10,6 +10,6 @@ You'll need `git submodule update --init --recursive`
 
 # Symlinks
 
-`~/.vimrc.after => /.vimrc.after`
-`~/.vimrc.before => /.vimrc.before`
-`~/.janus => /.janus`
+- `~/.vimrc.after => /.vimrc.after`
+- `~/.vimrc.before => /.vimrc.before`
+- `~/.janus => /.janus`
