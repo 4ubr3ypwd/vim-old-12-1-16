@@ -10,7 +10,7 @@ set nowrap
 
 filetype indent plugin on
 
-" Update file on chagne.
+" Update file on change.
 set autoread
 
 " Mouse Scroll
