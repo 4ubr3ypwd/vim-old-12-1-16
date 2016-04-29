@@ -13,3 +13,8 @@ set showmode
 vno v <esc>
 ino ii <esc>
 cno ii <c-c>
+
+" Easier exiting.
+nmap <leader>q :q!<cr>
+nmap <leader>w :w!<cr>
+nmap <leader>s :w!<cr>
